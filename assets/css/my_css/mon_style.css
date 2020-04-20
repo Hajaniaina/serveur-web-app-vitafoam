@@ -1,0 +1,16 @@
+#imglogo{
+	width: 45px !important;
+	height: 45px !important;
+}
+#imglogo_text{
+	width: 45px !important;
+	height: 45px !important;
+}
+#user_connected{
+	width: 30px;
+	height: 30px;
+}
+
+.header {
+	background: rgba(246, 225, 65, 1) !important;
+}
